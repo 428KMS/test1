@@ -21,4 +21,4 @@ namespace WindowsFormsApp1
            
         }
     }
-}　///ｄｄｄ
+}　///ㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁ
